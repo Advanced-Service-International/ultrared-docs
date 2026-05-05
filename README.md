@@ -35,8 +35,13 @@ Todas las páginas están alojadas mediante **GitHub Pages** y se actualizan aut
 **URL base:**
 ```
 https://advanced-service-international.github.io/ultrared-docs/
-```
 
+```
+**URL base SIMERA:
+```
+https://advanced-service-international.github.io/ultrared-docs/simera-app/support.html
+
+```
 ---
 
 ## ✏️ Cómo actualizar una página
