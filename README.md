@@ -34,7 +34,7 @@ Todas las páginas están alojadas mediante **GitHub Pages** y se actualizan aut
 
 **URL base:**
 ```
-https://advanced-service-international.github.io/app-pages/
+https://advanced-service-international.github.io/ultrared-docs/
 ```
 
 ---
